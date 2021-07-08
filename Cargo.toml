@@ -1,0 +1,13 @@
+[package]
+name = "bz2-fastdl"
+version = "0.1.0"
+authors = ["CirnoV <cirnov59@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bzip2 = "0.4"
+rayon = "1.5.1"
+structopt = "0.3.21"
+walkdir = "2"
