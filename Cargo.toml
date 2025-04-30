@@ -5,6 +5,7 @@ authors = ["CirnoV <cirnov59@gmail.com>"]
 edition = "2024"
 license = "MIT"
 repository = "https://github.com/cirnov/bz2-fastdl"
+description = "Compresses source-engine game server files (maps, models, materials, etc.) using bzip2 for FastDL."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
