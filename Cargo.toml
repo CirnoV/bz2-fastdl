@@ -3,6 +3,8 @@ name = "bz2-fastdl"
 version = "1.0.0"
 authors = ["CirnoV <cirnov59@gmail.com>"]
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/cirnov/bz2-fastdl"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
